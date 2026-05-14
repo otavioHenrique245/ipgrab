@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node arquivo1.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   }
